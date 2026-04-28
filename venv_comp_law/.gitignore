@@ -1,2 +1,21 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
-venv_comp_law/
+*
+data/
+__pycache__/
+*.pyc
+*.pyo
+*.venv/
+*.cfg
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.ico
+*.mp4
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.flac

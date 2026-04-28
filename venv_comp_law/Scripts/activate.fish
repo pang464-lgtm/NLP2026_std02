@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV 'D:\nlp2026\venv_comp_law'
+set -gx VIRTUAL_ENV 'D:\nlp2026\workshops\NLP2026_std02\venv_comp_law'
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"Scripts $PATH
